@@ -2,7 +2,7 @@
 
 ### Introduction
 
-The goal of this assignment is to construct, analyze, and publish a dataset of monthly traffic on English Wikipedia from January 1 2008 through September 30 2021. All analysis should be performed in a single Jupyter notebook; the Jupyter notebook and data files will be uploaded to a GitHub repository.
+The goal of this assignment is to construct, analyze, and publish a dataset of monthly traffic on English Wikipedia from January 1, 2008 through September 30, 2021. All analysis is performed in a single Jupyter notebook; the Jupyter notebook and data files are uploaded in this GitHub repository.
 
 The purpose of the assignment is to demonstrate best practices for open scientific research. The project should be fully reproducible by others: from data collection to data analysis.
 
@@ -38,7 +38,7 @@ After processing, the dataset hsa the following format:
 
 ### Considerations
 
-The methodology for counting page views changed in May 2015. Prior to that date, the legacy pagecounts reported user traffic and crawler traffic together. The updated method separates user traffic from automated traffic providing researchers to have a clearer understanding of the data. More information about the legacy pagecounts can be found [here] (https://wikitech.wikimedia.org/wiki/Analytics/AQS/Legacy_Pagecounts). 
+The methodology for counting page views changed in May 2015. Prior to that date, the legacy pagecounts reported user traffic and crawler traffic together. The updated method separates user traffic from automated traffic providing researchers to have a clearer understanding of the data. More information about the legacy pagecounts can be found [here](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Legacy_Pagecounts). 
 
 The legacy counts (including crawlers) are represented with the dotted lines on the visualization while the user-only traffic is represented with the solid line.
 
