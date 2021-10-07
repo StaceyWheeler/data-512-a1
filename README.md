@@ -55,7 +55,7 @@ The legacy counts (including crawlers) are represented with the dotted lines on 
 │   │   ├── pageviews_desktop_2015070100-2021100100.json
 │   │   ├── pageviews_mobile-app_2015070100-2021100100.json
 │   │   └── pageviews_mobile-web_2015070100-2021100100.json
-│   └── visualizations
+│   └── visualization
 │       └── en-wikipedia_traffic_200712-202109.png
 └── src
     └── hcds-a1-data-curation.ipynb
@@ -63,7 +63,7 @@ The legacy counts (including crawlers) are represented with the dotted lines on 
 
 ### Visualization
 
-![](../data/visualization/en-wikipedia_traffic_200712-202109.png)
+![](./data/visualization/en-wikipedia_traffic_200712-202109.png)
 
 
 
