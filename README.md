@@ -43,6 +43,7 @@ The methodology for counting page views changed in May 2015. Prior to that date,
 The legacy counts (including crawlers) are represented with the dotted lines on the visualization while the user-only traffic is represented with the solid line.
 
 ### Repository Structure
+```
 ├── LICENSE
 ├── README.md
 ├── data
@@ -58,10 +59,11 @@ The legacy counts (including crawlers) are represented with the dotted lines on 
 │       └── en-wikipedia_traffic_200712-202109.png
 └── src
     └── hcds-a1-data-curation.ipynb
+```
 
 ### Visualization
 
-![](../data/visualizations/en-wikipedia_traffic_200712-202109.png)
+![](../data/visualization/en-wikipedia_traffic_200712-202109.png)
 
 
 
